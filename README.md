@@ -1,2 +1,2 @@
 # playsafesa
-PHP7 container powered by nginx
+PHP7 container powered by httpd
